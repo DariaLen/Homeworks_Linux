@@ -1,0 +1,19 @@
+   0 vi /tmp/file.txt
+   1 clear
+   2 ls -la
+   3 ls -la /tmp/
+   4 vi /tmp/file.txt
+   5 clear
+   6 ls -la
+   7 ls -la/tmp/
+   8 ls -la /tmp
+   9 df -h
+  10 df -h | head -3
+  11 df -h | head -3 > /tmp/file.txt
+  12 ls -l /tmp/
+  13 chmod g+w /tmp/file.txt
+  14 chmod u-r /tmp/file.txt
+  15 chmod o+x /tmp/file.txt
+  16 ls -l /tmp/
+  17 history
+  18 history > homework_09_06.txt
